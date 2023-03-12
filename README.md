@@ -7,7 +7,7 @@ Desarrollador Full Stack
 
 | PHP | NODE | VUE | PUPPETEER | .NET | SQL | AWS 
 
-** Experiencia **
+**Experiencia**
 
 
 
