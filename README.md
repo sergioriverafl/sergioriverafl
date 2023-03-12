@@ -3,7 +3,11 @@
 
 ### Sergio Yamit Rivera Flor
 
-** Desarrollador Full Stack | PHP | NODE | VUE | PUPPETEER | .NET **
+Desarrollador Full Stack 
+
+| PHP | NODE | VUE | PUPPETEER | .NET | SQL | AWS 
+
+
 
 
 <!---
