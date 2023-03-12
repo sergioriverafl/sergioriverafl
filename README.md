@@ -1,3 +1,6 @@
+![Portada Sergio Rivera @sergioriverafl](https://media.licdn.com/dms/image/C5616AQFTtrKDuEikKw/profile-displaybackgroundimage-shrink_350_1400/0/1655088093498?e=1684368000&v=beta&t=T_kv56Yk9AARCWZAkqJrUe7La571iw-y_actQasHcT4)
+
+
 - 👋 Hi, I’m @sergioriverafl
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
