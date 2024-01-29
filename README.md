@@ -1,4 +1,4 @@
-![Portada Sergio Rivera @sergioriverafl](https://media.licdn.com/dms/image/C5616AQFTtrKDuEikKw/profile-displaybackgroundimage-shrink_350_1400/0/1655088093498?e=1690416000&v=beta&t=7IXFl7iUuGKfEZLKMhOZcqmOQ9VgsYAKSXKTBchuaGM)
+![Portada Sergio Rivera @sergioriverafl](https://cdn.pixabay.com/photo/2018/01/11/21/27/desk-3076954_1280.jpg)
 
 
 ### Sergio Yamit Rivera Flor
