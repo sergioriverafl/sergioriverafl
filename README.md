@@ -1,4 +1,4 @@
-![Portada Sergio Rivera @sergioriverafl](https://cdn.pixabay.com/photo/2018/01/11/21/27/desk-3076954_1280.jpg)
+![Portada Sergio Rivera @sergioriverafl](https://github.com/sergioriverafl/sergioriverafl/blob/main/src/images/Sergio-Rivera-Blue-Gold-Elegant-Minimalist-LinkedIn-Banner.png)
 
 
 ### Sergio Yamit Rivera Flor
