@@ -1,4 +1,5 @@
-![Portada Sergio Rivera @sergioriverafl](https://github.com/sergioriverafl/sergioriverafl/blob/main/src/images/Sergio-Rivera-Blue-Gold-Elegant-Minimalist-LinkedIn-Banner.png)
+<img width="1400" height="350" alt="1655088093959" src="https://github.com/user-attachments/assets/314dac21-9c4e-477b-9c5d-50be162f6d7d" />
+
 
 ---
 
