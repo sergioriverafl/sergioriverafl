@@ -13,7 +13,11 @@
 
 ## 👋 **Sobre mí**
 
-Soy un **Desarrollador Full Stack** con más de 7 años de experiencia en el desarrollo de aplicaciones web y móviles. A lo largo de mi carrera, he trabajado en proyectos desafiantes, utilizando tecnologías modernas tanto en el **frontend** como en el **backend**. Mi enfoque principal está en la creación de soluciones eficientes, escalables y de alto rendimiento, siempre siguiendo las mejores prácticas de desarrollo y trabajando bajo metodologías ágiles como **SCRUM**.
+Llevo 7 años construyendo software, pero lo que realmente me mueve es resolver problemas que impactan a personas reales.
+
+He liderado proyectos desde contextos muy distintos: la optimización de formularios en producción para empresas tech, el desarrollo de plataformas de gestión para una empresa de transporte con operación nacional en Colombia, y la construcción de aplicaciones móviles y web para el SENA en La Plata, Huila — donde el reto era llevar tecnología al campo para agilizar la recolección y procesamiento de datos en investigación agropecuaria.
+
+Trabajo con tecnologías como React, Vue, Node.js, Go y Laravel, en el stack completo — desde el primer píxel hasta la base de datos. Pero más allá de las herramientas, lo que me apasiona es encontrar la solución correcta para cada contexto.
 
 ### 🌐 **Frontend Expertise:**
 - **Frameworks:** Vue, React, Angular
